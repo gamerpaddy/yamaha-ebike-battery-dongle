@@ -20,7 +20,7 @@ easyeda page: https://easyeda.com/gamerpaddy/yamaha-accu-dongle-v4
 
 <h2><b>FAQ:</b></h2>
 
-<b>Can i use LiPos? </b>
+<b>Can i use rc hobby grade LiPos? </b>
 
 Yes
 </br>
