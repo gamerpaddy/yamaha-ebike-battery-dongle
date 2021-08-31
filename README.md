@@ -32,7 +32,7 @@ if you stay within the voltage range of the original battery, you can use anythi
 
 <b>How do i calibrate it?</b>
 
-You need a oscilloscope, logic analyzer (the <5$ work just fine) or a sound card (be careful, limit the voltage before hooking it up)</br>
+You need a oscilloscope, logic analyzer (the <5$ work just fine) or a sound card (be careful, limit the voltage before hooking it up) and a soundcard-oscilloscope program or audacity</br>
 in the code are timings mentioned at the very top, try to edit these and reflash the firmware until they have the timings required.</br>
 
 </br>
