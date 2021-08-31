@@ -7,6 +7,9 @@ Doesnt work with 5 pin Giant Batteries!, even tho they are Yamaha. they use can-
 
 It immitates a original battery, so you are able to connect any 36V source you want.
 
+<img src="dongle.jpeg"/>
+
+
 
 Arduino firmware code in Code folder, to flash onto the dongle, you may require a arduino package that supports Attiny13's like https://github.com/MCUdude/MicroCore </br>you may need to adjust timings if your arduino board (like Attiny13 pcb's) doesnt have a calibrated clock. A sound card and audacity can be used for this in case you got no scope / logic analyzer.
 Schematics for use with EasyEDA in schematics folder.
