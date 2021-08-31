@@ -1,0 +1,1 @@
+Flash using Arduino IDE, may need to adjust timings for each device. check with a scope or use a MCU with a crystal. this serial comm is very picky about timings
